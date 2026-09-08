@@ -1,0 +1,5626 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-07T09:35:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469657348",
+        "area": "yes",
+        "name": "瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.1833532,
+              24.8187786
+            ],
+            [
+              121.183366,
+              24.8187598
+            ],
+            [
+              121.1834425,
+              24.8187938
+            ],
+            [
+              121.1834298,
+              24.8188126
+            ],
+            [
+              121.1833532,
+              24.8187786
+            ]
+          ]
+        ]
+      },
+      "id": "way/469657348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427554463",
+        "name": "羅山瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15909752",
+        "wikipedia": "zh:羅山瀑布"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.2954549,
+            23.1812536
+          ],
+          [
+            121.2958049,
+            23.1809849
+          ],
+          [
+            121.2957801,
+            23.180959
+          ],
+          [
+            121.295426,
+            23.181221
+          ],
+          [
+            121.2954549,
+            23.1812536
+          ]
+        ]
+      },
+      "id": "way/427554463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469657347",
+        "name": "瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.183362,
+            24.8187677
+          ],
+          [
+            121.1834385,
+            24.8188017
+          ]
+        ]
+      },
+      "id": "way/469657347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1233402716",
+        "height": "20",
+        "intermittent": "no",
+        "name": "十分瀑布",
+        "name:de": "Shifen Wasserfall",
+        "name:en": "Shifen Waterfall",
+        "name:zh": "十分瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "40",
+        "wikidata": "Q38369",
+        "wikipedia": "zh:十分瀑布",
+        "wikipedia:zh": "十分瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7873146,
+          25.0489519
+        ]
+      },
+      "id": "node/1233402716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615661975",
+        "name": "松瀧岩瀑布",
+        "name:en": "Matsuzaka Falls",
+        "name:zh": "松瀧岩瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8023653,
+          23.6191718
+        ]
+      },
+      "id": "node/1615661975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770500938",
+        "name": "東線瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.192356,
+          24.4992001
+        ]
+      },
+      "id": "node/1770500938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2101219312",
+        "name": "三疊瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5441062,
+          24.4724427
+        ]
+      },
+      "id": "node/2101219312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140098698",
+        "name": "雲龍瀑布",
+        "name:en": "Yunlong Waterfall",
+        "name:zh": "雲龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34682623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9527324,
+          23.5558163
+        ]
+      },
+      "id": "node/2140098698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178330622",
+        "height": "80",
+        "name": "烏來瀑布",
+        "name:en": "Wulai Waterfall",
+        "name:zh": "烏來瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q15912407",
+        "wikipedia": "zh:烏來瀑布",
+        "wikipedia:zh": "烏來瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552362,
+          24.8475159
+        ]
+      },
+      "id": "node/2178330622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303316704",
+        "name": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8646144,
+          23.4679447
+        ]
+      },
+      "id": "node/2303316704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2306537824",
+        "name": "摩摩納爾瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0599985,
+          23.922553
+        ]
+      },
+      "id": "node/2306537824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2428091740",
+        "name": "能高瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2793301,
+          24.0479667
+        ]
+      },
+      "id": "node/2428091740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645591452",
+        "alt_name": "蘭吼瀑布",
+        "name": "五重溪瀑布",
+        "name:zh": "五重溪瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q34755331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51391,
+          24.8198739
+        ]
+      },
+      "id": "node/2645591452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645591594",
+        "name": "烏砂溪瀑布",
+        "name:en": "Wusha Creek Waterfall",
+        "name:zh": "烏砂溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5254633,
+          24.8341767
+        ]
+      },
+      "id": "node/2645591594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2647420189",
+        "height": "5",
+        "name": "宇內瀑布",
+        "name:en": "Yunnei Waterslide",
+        "name:zh": "宇內瀑布",
+        "waterway": "waterfall",
+        "width": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3959615,
+          24.7903771
+        ]
+      },
+      "id": "node/2647420189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2651948460",
+        "name": "翠峰瀑布",
+        "name:en": "Tsuifeng Falls",
+        "name:zh": "翠峰瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5392102,
+          25.1404827
+        ]
+      },
+      "id": "node/2651948460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2683429962",
+        "name": "九華瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1329976,
+          23.6403168
+        ]
+      },
+      "id": "node/2683429962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2707997101",
+        "name": "流瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0612836,
+          24.0987263
+        ]
+      },
+      "id": "node/2707997101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2707997102",
+        "name": "長瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0661356,
+          24.1059676
+        ]
+      },
+      "id": "node/2707997102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726875581",
+        "name": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9784201,
+          23.7681719
+        ]
+      },
+      "id": "node/2726875581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2750058599",
+        "name": "老鬼瀑布",
+        "name:en": "Old ghost waterfall",
+        "name:zh": "老鬼瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8777317,
+          25.1066832
+        ]
+      },
+      "id": "node/2750058599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2750058798",
+        "name": "小鬼瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.879057,
+          25.1104378
+        ]
+      },
+      "id": "node/2750058798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795026995",
+        "alt_name": "煙聲瀑布",
+        "height": "80",
+        "name": "桃山瀑布",
+        "name:en": "Taoshan Falls",
+        "name:zh": "桃山瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15909383",
+        "wikipedia": "zh:桃山瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.302562,
+          24.4139375
+        ]
+      },
+      "id": "node/2795026995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2817102485",
+        "name": "仙女瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8201633,
+          24.1219911
+        ]
+      },
+      "id": "node/2817102485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2895107530",
+        "name": "彩蝶瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.047351,
+          23.9933136
+        ]
+      },
+      "id": "node/2895107530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903039767",
+        "name": "水上瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9147132,
+          23.932918
+        ]
+      },
+      "id": "node/2903039767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903041709",
+        "fixme": "check position . coudn't find",
+        "name": "紅色瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9224204,
+          23.9190331
+        ]
+      },
+      "id": "node/2903041709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2912737986",
+        "name": "雙龍瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q34757205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9504742,
+          23.7764604
+        ]
+      },
+      "id": "node/2912737986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2915692001",
+        "name": "大興瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3734805,
+          23.645684
+        ]
+      },
+      "id": "node/2915692001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2915837307",
+        "name": "鳳凰瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4234624,
+          23.7587382
+        ]
+      },
+      "id": "node/2915837307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2915880399",
+        "name": "樹湖第二瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4612689,
+          23.846512
+        ]
+      },
+      "id": "node/2915880399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934178201",
+        "name": "小妮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4478798,
+          24.8149251
+        ]
+      },
+      "id": "node/2934178201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2982429303",
+        "intermittent": "yes",
+        "name": "公院瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3715248,
+          24.9438372
+        ]
+      },
+      "id": "node/2982429303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3074475114",
+        "name": "虹橋瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2832367,
+          24.7644296
+        ]
+      },
+      "id": "node/3074475114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3074475116",
+        "name": "馬武督瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101544761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.28376,
+          24.7631873
+        ]
+      },
+      "id": "node/3074475116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3123425368",
+        "name": "天鵝湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.713165,
+          22.7940687
+        ]
+      },
+      "id": "node/3123425368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3160527696",
+        "height": "24",
+        "name": "五峰旗瀑布 (第二層)",
+        "name:en": "Wufengchi Waterfalls (Second layer)",
+        "name:zh": "五峰旗瀑布 (第二層)",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7468032,
+          24.8341362
+        ]
+      },
+      "id": "node/3160527696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3168518701",
+        "name": "Longying Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3383966,
+          23.5892167
+        ]
+      },
+      "id": "node/3168518701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3262639132",
+        "name": "夢幻谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9830431,
+          24.1561168
+        ]
+      },
+      "id": "node/3262639132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3268500866",
+        "name": "眼鏡洞瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q15918341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7848737,
+          25.048925
+        ]
+      },
+      "id": "node/3268500866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3300308771",
+        "name": "豐鄉瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1434758,
+          24.6929701
+        ]
+      },
+      "id": "node/3300308771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3307042795",
+        "height": "40",
+        "name": "Takahashi Bridge Waterfall",
+        "name:zh": "高坡橋瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3484469,
+          24.7661849
+        ]
+      },
+      "id": "node/3307042795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3307042831",
+        "height": "35",
+        "name": "Devil Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3481412,
+          24.7664649
+        ]
+      },
+      "id": "node/3307042831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3307042892",
+        "height": "60",
+        "name": "高坡彩虹瀑布",
+        "name:en": "Gaopo Rainbow Waterfall",
+        "name:zh": "高坡彩虹瀑布",
+        "waterway": "waterfall",
+        "width": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3476883,
+          24.7670111
+        ]
+      },
+      "id": "node/3307042892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323985400",
+        "name": "小烏來瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34682554",
+        "wikipedia": "zh:小烏來瀑布",
+        "wikipedia:zh": "小烏來瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3751152,
+          24.7906493
+        ]
+      },
+      "id": "node/3323985400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3417043044",
+        "name": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3405328,
+          24.2040997
+        ]
+      },
+      "id": "node/3417043044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475915985",
+        "name": "大石門瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9983192,
+          24.4712562
+        ]
+      },
+      "id": "node/3475915985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475915987",
+        "name": "水雲瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.999271,
+          24.4703133
+        ]
+      },
+      "id": "node/3475915987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3478366292",
+        "height": "42",
+        "name": "五峰旗瀑布 (第一層)",
+        "name:en": "Wufengchi Waterfalls (First layer)",
+        "name:zh": "五峰旗瀑布 (第一層)",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q34682538",
+        "wikipedia": "zh:五峰旗瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.747076,
+          24.8349752
+        ]
+      },
+      "id": "node/3478366292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504213052",
+        "height": "65",
+        "name": "太極瀑布",
+        "name:en": "Taiji Waterfall",
+        "name:zh": "太極瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7305325,
+          23.6619431
+        ]
+      },
+      "id": "node/3504213052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504213404",
+        "name": "青龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15912902",
+        "wikimedia_commons": "File:Sun link Sea 3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7847548,
+          23.6374583
+        ]
+      },
+      "id": "node/3504213404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3533809429",
+        "name": "夢谷瀑布",
+        "name:en": "Dream Valley Waterfall",
+        "name:zh": "夢谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0863673,
+          24.0217762
+        ]
+      },
+      "id": "node/3533809429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3540742643",
+        "name": "馬凹溪瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9770997,
+          24.4800734
+        ]
+      },
+      "id": "node/3540742643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3608363267",
+        "name": "八仙瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0953538,
+          24.5344488
+        ]
+      },
+      "id": "node/3608363267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3609887637",
+        "name": "小半天瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7506974,
+          23.7090826
+        ]
+      },
+      "id": "node/3609887637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3609951934",
+        "name": "德興瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101529890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7560197,
+          23.6951589
+        ]
+      },
+      "id": "node/3609951934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3659447242",
+        "alt_name": "水咚咚",
+        "alt_name:zh": "水咚咚",
+        "height": "25",
+        "name": "不動瀑布",
+        "name:en": "Bu-dong Waterfall",
+        "name:ja": "不動滝（ふどうたき）",
+        "name:nan": "Chúi-tan-tan",
+        "name:zh": "不動瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4921654,
+          25.1556535
+        ]
+      },
+      "id": "node/3659447242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3659447341",
+        "name": "情人瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5251711,
+          25.1466903
+        ]
+      },
+      "id": "node/3659447341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3678468961",
+        "name": "玉門關瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8890413,
+          23.9639232
+        ]
+      },
+      "id": "node/3678468961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696712052",
+        "name": "千層瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2419991,
+          24.8299264
+        ]
+      },
+      "id": "node/3696712052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750009044",
+        "name": "松溪瀑布（文大瀑布）",
+        "name:en": "Pine Stream Waterfall",
+        "name:zh": "松溪瀑布（文大瀑布）",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5435444,
+          25.1421735
+        ]
+      },
+      "id": "node/3750009044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756106724",
+        "name": "撒固兒瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5783196,
+          24.0232439
+        ]
+      },
+      "id": "node/3756106724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762210109",
+        "ele": "574",
+        "height": "40",
+        "name": "獵戶瀑布",
+        "name:en": "Orion Falls",
+        "name:zh": "獵戶瀑布",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5486679,
+          24.0289207
+        ]
+      },
+      "id": "node/3762210109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762210143",
+        "height": "20",
+        "name": "Ya Sheng Fall",
+        "waterway": "waterfall",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410884,
+          24.0316737
+        ]
+      },
+      "id": "node/3762210143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3765139971",
+        "name": "聖人瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15911480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5890932,
+          25.127928
+        ]
+      },
+      "id": "node/3765139971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790309191",
+        "height": "4",
+        "name": "飛龍瀑布",
+        "name:en": "Flying Dragon Waterfall",
+        "name:zh": "飛龍瀑布",
+        "source": "http://followxiaofei.com/taiwan/pingtung-waterfalls-wutai-flying-dragon-waterfall",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7443937,
+          22.7651493
+        ]
+      },
+      "id": "node/3790309191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803146316",
+        "name": "女巫石瀑",
+        "name:en": "Witch's Rock Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5120895,
+          25.1385272
+        ]
+      },
+      "id": "node/3803146316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928118637",
+        "description": "深潭危險",
+        "name": "南安瀑布",
+        "tourism": "viewpoint",
+        "waterway": "waterfall",
+        "wikidata": "Q34847082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2475823,
+          23.3120753
+        ]
+      },
+      "id": "node/3928118637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945277477",
+        "name": "知本林道瀑布",
+        "tourism": "viewpoint",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.014408,
+          22.7047114
+        ]
+      },
+      "id": "node/3945277477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973946444",
+        "name": "小瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9820178,
+          24.1557817
+        ]
+      },
+      "id": "node/3973946444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973947130",
+        "name": "蝴蝶谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9795669,
+          24.1610666
+        ]
+      },
+      "id": "node/3973947130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3995019032",
+        "height": "92",
+        "name": "圓覺瀑布",
+        "name:en": "Yuanjue Falls",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5946001,
+          25.0975279
+        ]
+      },
+      "id": "node/3995019032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002068431",
+        "name": "雙流瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8213647,
+          22.2226584
+        ]
+      },
+      "id": "node/4002068431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4047734773",
+        "name": "羅山瀑布頂端",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2957849,
+          23.1809749
+        ]
+      },
+      "id": "node/4047734773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4085135899",
+        "name": "涼山瀑布第一層",
+        "tourism": "viewpoint",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6446696,
+          22.6821922
+        ]
+      },
+      "id": "node/4085135899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4085135900",
+        "name": "涼山瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6469211,
+          22.6747034
+        ]
+      },
+      "id": "node/4085135900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087595860",
+        "height": "11",
+        "name": "嶺腳石窟瀑布",
+        "name:en": "Lingjiao Shiku Waterfall",
+        "name:zh": "嶺腳石窟瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7480608,
+          25.0285866
+        ]
+      },
+      "id": "node/4087595860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092738966",
+        "name": "加拿瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1151859,
+          23.0191583
+        ]
+      },
+      "id": "node/4092738966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4099287878",
+        "name": "龍泉瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q11180558",
+        "wikipedia": "zh:龍泉瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1742416,
+          23.172576
+        ]
+      },
+      "id": "node/4099287878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4101980668",
+        "description": "山海瀑布極易墜落",
+        "name": "山海瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8760964,
+          22.0064327
+        ]
+      },
+      "id": "node/4101980668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4113573502",
+        "alt_name": "女人瀑布;鱸潭瀑布;鴛鴦谷瀑布群-二號瀑布",
+        "name": "鰻潭瀑布",
+        "name:zh": "鰻潭瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2855006,
+          24.7503074
+        ]
+      },
+      "id": "node/4113573502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4113606059",
+        "name": "石盤寮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8537895,
+          24.9541895
+        ]
+      },
+      "id": "node/4113606059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4120613166",
+        "name": "萬寶洞瀑布",
+        "natural": "cliff",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7624869,
+          25.0303308
+        ]
+      },
+      "id": "node/4120613166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4129498621",
+        "intermittent": "no",
+        "name": "向山瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6598147,
+          23.5261573
+        ]
+      },
+      "id": "node/4129498621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132608591",
+        "description": "2016年04月18日發生迪卡儂屏東分店3名員工溺斃事件",
+        "name": "獅王瀑布",
+        "name:en": "King waterfall",
+        "name:zh": "獅王瀑布",
+        "natural": "cliff",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7236429,
+          22.6699117
+        ]
+      },
+      "id": "node/4132608591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4150994289",
+        "name": "木瓜坑瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8282476,
+          23.7017085
+        ]
+      },
+      "id": "node/4150994289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4157057722",
+        "name": "上善瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9007704,
+          24.1008133
+        ]
+      },
+      "id": "node/4157057722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182780585",
+        "name": "老梅瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5522413,
+          25.2389162
+        ]
+      },
+      "id": "node/4182780585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182794992",
+        "name": "老梅瀑布",
+        "name:en": "Laomei waterfall",
+        "name:zh": "老梅瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5524703,
+          25.2378868
+        ]
+      },
+      "id": "node/4182794992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194921994",
+        "name": "加九寮瀑布",
+        "name:en": "Jiajiuliao Waterfall",
+        "name:zh": "加九寮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5244752,
+          24.8773779
+        ]
+      },
+      "id": "node/4194921994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201444297",
+        "name": "枇杷洞瀑布",
+        "name:en": "Pipa Cave Waterfall",
+        "name:zh": "枇杷洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8046096,
+          25.0633923
+        ]
+      },
+      "id": "node/4201444297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201444301",
+        "name": "摩天瀑布",
+        "name:en": "Motian Waterfall",
+        "name:zh": "摩天瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8052454,
+          25.0633083
+        ]
+      },
+      "id": "node/4201444301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201444611",
+        "name": "合谷瀑布",
+        "name:en": "Hegu Waterfall",
+        "name:zh": "合谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8110829,
+          25.0614529
+        ]
+      },
+      "id": "node/4201444611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203536505",
+        "name": "大屯瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101544967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5369256,
+          25.1618623
+        ]
+      },
+      "id": "node/4203536505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4223052701",
+        "name": "泰安瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101543151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7169779,
+          25.0700401
+        ]
+      },
+      "id": "node/4223052701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4248140726",
+        "height": "10",
+        "name": "秀峰瀑布",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6661004,
+          25.048407
+        ]
+      },
+      "id": "node/4248140726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262898593",
+        "name": "龍宮瀑布",
+        "name:en": "Longgong Waterfall",
+        "name:zh": "龍宮瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q11180496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6577268,
+          23.5544255
+        ]
+      },
+      "id": "node/4262898593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262898612",
+        "name": "中正大瀑布",
+        "name:en": "Zhongzhenda Waterfall",
+        "name:zh": "中正大瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6538899,
+          23.5566236
+        ]
+      },
+      "id": "node/4262898612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266374383",
+        "name": "翠谷瀑布",
+        "name:en": "Emerald Valley Waterfall",
+        "name:zh": "翠谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7966249,
+          25.056393
+        ]
+      },
+      "id": "node/4266374383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266375694",
+        "name": "新寮瀑布",
+        "name:en": "Xinliao Waterfall",
+        "name:zh": "新寮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7947517,
+          25.0565362
+        ]
+      },
+      "id": "node/4266375694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267568229",
+        "name": "奇萊大瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3162163,
+          24.099719
+        ]
+      },
+      "id": "node/4267568229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271045538",
+        "name": "山風瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2250867,
+          23.3294342
+        ]
+      },
+      "id": "node/4271045538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271045540",
+        "name": "山風瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22545,
+          23.3294991
+        ]
+      },
+      "id": "node/4271045540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271206924",
+        "name": "新港瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34682561",
+        "wikipedia": "zh:新港瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3393161,
+          23.1337196
+        ]
+      },
+      "id": "node/4271206924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4273054690",
+        "name": "紅葉谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544677,
+          25.2040384
+        ]
+      },
+      "id": "node/4273054690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275504616",
+        "name": "紅石瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1118709,
+          23.0519752
+        ]
+      },
+      "id": "node/4275504616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285652035",
+        "name": "絹絲瀑布",
+        "natural": "cliff",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0674618,
+          23.1585718
+        ]
+      },
+      "id": "node/4285652035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285658728",
+        "name": "月眉坑瀑布",
+        "name:en": "Yuemeikeng Waterfall",
+        "name:zh": "月眉坑瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7339248,
+          24.8306284
+        ]
+      },
+      "id": "node/4285658728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4291995386",
+        "name": "子母雙瀑布",
+        "name:en": "Gaunyin Waterfall",
+        "name:zh": "子母雙瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7975339,
+          25.0568304
+        ]
+      },
+      "id": "node/4291995386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301553600",
+        "description": "千層瀑布",
+        "name": "粗坑瀑布",
+        "name:zh": "粗坑瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8070475,
+          25.054031
+        ]
+      },
+      "id": "node/4301553600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315773197",
+        "name": "乙女瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q10878612",
+        "wikipedia": "zh:乙女瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9627952,
+          23.5454617
+        ]
+      },
+      "id": "node/4315773197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343360053",
+        "name": "雷音瀑布",
+        "name:en": "Leiyin Falls",
+        "name:zh": "雷音瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6583089,
+          23.5566211
+        ]
+      },
+      "id": "node/4343360053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345347532",
+        "name": "雲潭瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15907163",
+        "wikipedia": "zh:雲潭瀑布",
+        "wikipedia:zh": "雲潭瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6561231,
+          23.5332728
+        ]
+      },
+      "id": "node/4345347532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345347848",
+        "name": "生毛樹瀑布",
+        "name:en": "Shengmaoshu Waterfall",
+        "name:zh": "生毛樹瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6651539,
+          23.5559868
+        ]
+      },
+      "id": "node/4345347848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345363562",
+        "name": "相逢瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6255567,
+          23.5542667
+        ]
+      },
+      "id": "node/4345363562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4354986731",
+        "name": "觀霧瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1216496,
+          24.4956162
+        ]
+      },
+      "id": "node/4354986731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374709872",
+        "name": "觀音瀑布第三層",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.620911,
+          23.5063834
+        ]
+      },
+      "id": "node/4374709872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396213889",
+        "height": "20",
+        "name": "阿里磅瀑布",
+        "name:en": "Alibang Waterfall",
+        "name:zh": "阿里磅瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5731235,
+          25.2265619
+        ]
+      },
+      "id": "node/4396213889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396865574",
+        "name": "蓬萊瀑布",
+        "name:de": "Penglai Wasserfall",
+        "name:en": "Penglai Waterfall",
+        "name:zh": "蓬萊瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q15905114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7082285,
+          23.5978293
+        ]
+      },
+      "id": "node/4396865574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527686020",
+        "name": "白絲瀑布",
+        "name:en": "White Silk Waterfall",
+        "name:zh": "白絲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540939,
+          25.1570005
+        ]
+      },
+      "id": "node/4527686020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533061713",
+        "name": "水道頭瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95444,
+          23.8473272
+        ]
+      },
+      "id": "node/4533061713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535943022",
+        "name": "雙瀑",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1738283,
+          23.9566602
+        ]
+      },
+      "id": "node/4535943022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535943023",
+        "name": "飛瀑",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1740442,
+          23.9577436
+        ]
+      },
+      "id": "node/4535943023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569696974",
+        "name": "黑黑谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9851799,
+          23.7997784
+        ]
+      },
+      "id": "node/4569696974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593966892",
+        "name": "沙拉灣瀑布",
+        "name:en": "shalawan waterfall",
+        "name:zh": "沙拉灣瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7210033,
+          22.6580386
+        ]
+      },
+      "id": "node/4593966892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597319932",
+        "name": "蝙蝠洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5263245,
+          23.1797575
+        ]
+      },
+      "id": "node/4597319932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4654975564",
+        "name": "鳳凰谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8007345,
+          23.7328339
+        ]
+      },
+      "id": "node/4654975564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664696392",
+        "name": "澳花瀑布",
+        "name:en": "Ao Hua Waterfall",
+        "name:zh": "澳花瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7382186,
+          24.353013
+        ]
+      },
+      "id": "node/4664696392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664698789",
+        "name": "金岳瀑布",
+        "name:en": "Jin Yue Waterfall",
+        "name:zh": "金岳瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7476272,
+          24.4676497
+        ]
+      },
+      "id": "node/4664698789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693014061",
+        "name": "青龍二瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78291,
+          23.6362535
+        ]
+      },
+      "id": "node/4693014061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772040023",
+        "name": "猴洞坑瀑布",
+        "name:en": "Houdongkeng Waterfall",
+        "name:zh": "猴洞坑瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7819281,
+          24.8434975
+        ]
+      },
+      "id": "node/4772040023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791417273",
+        "name": "雲龍瀑布",
+        "name:en": "Yunlong Waterfall",
+        "name:zh": "雲龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34682623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9530916,
+          23.5561056
+        ]
+      },
+      "id": "node/4791417273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796055065",
+        "name": "下洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7738658,
+          24.9164932
+        ]
+      },
+      "id": "node/4796055065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807915409",
+        "height": "60",
+        "name": "神隱瀑布",
+        "name:en": "Shenyin Waterfall",
+        "name:zh": "神隱瀑布",
+        "source": "Local Knowledge",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3910814,
+          24.7665906
+        ]
+      },
+      "id": "node/4807915409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807916077",
+        "name": "處女瀑布",
+        "name:en": "Chunu Waterfall",
+        "name:zh": "處女瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4537645,
+          24.8195074
+        ]
+      },
+      "id": "node/4807916077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807916225",
+        "height": "5",
+        "name": "森山瀑布",
+        "name:en": "Shenshan Falls",
+        "name:zh": "森山瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4655242,
+          24.8334033
+        ]
+      },
+      "id": "node/4807916225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4839345621",
+        "name": "觀音瀑布",
+        "name:en": "Guan Yin Waterfall",
+        "name:zh": "觀音瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34839375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0359204,
+          23.9896327
+        ]
+      },
+      "id": "node/4839345621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4846878421",
+        "name": "白楊瀑布",
+        "name:en": "Baiyang Pubu",
+        "name:zh": "白楊瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34832720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4755277,
+          24.1778858
+        ]
+      },
+      "id": "node/4846878421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849840321",
+        "height": "4",
+        "intermittent": "no",
+        "name": "望古瀑布",
+        "name:en": "Wanggu pubu",
+        "name:zh": "望古瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7586863,
+          25.0348494
+        ]
+      },
+      "id": "node/4849840321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852942022",
+        "name": "神仙谷瀑布",
+        "name:en": "Gods Waterfalls",
+        "name:zh": "神仙谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0301408,
+          24.5452992
+        ]
+      },
+      "id": "node/4852942022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4861879512",
+        "name": "三龍瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6176532,
+          23.3460542
+        ]
+      },
+      "id": "node/4861879512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863302118",
+        "name": "蛟龍瀑布 mangivanay",
+        "name:en": "Jiaolong Falls",
+        "name:zh": "蛟龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q698247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7669003,
+          23.5534632
+        ]
+      },
+      "id": "node/4863302118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864469121",
+        "name": "青山瀑布",
+        "name:zh": "青山瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q111449539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5571198,
+          25.2382352
+        ]
+      },
+      "id": "node/4864469121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4868901477",
+        "name": "天溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5931543,
+          25.1319367
+        ]
+      },
+      "id": "node/4868901477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4874150272",
+        "name": "蘭花溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6791022,
+          24.7905381
+        ]
+      },
+      "id": "node/4874150272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875011435",
+        "name": "幽谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7458292,
+          24.8367843
+        ]
+      },
+      "id": "node/4875011435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881587397",
+        "height": "60",
+        "intermittent": "no",
+        "name": "新寮瀑布(第一層)",
+        "name:en": "Xinliao Waterfall(first)",
+        "name:zh": "新寮瀑布(第一層)",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7445311,
+          24.6013033
+        ]
+      },
+      "id": "node/4881587397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903898091",
+        "description": "Beautyful waterfall that is only accessable by climbing through the riverbank",
+        "height": "8",
+        "name": "東山瀑布",
+        "name:en": "Dongshan Waterfall",
+        "name:zh": "東山瀑布",
+        "source": "Local Knowledge, GPS",
+        "waterway": "waterfall",
+        "width": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7044436,
+          25.0486671
+        ]
+      },
+      "id": "node/4903898091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4943837362",
+        "name": "心湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6581473,
+          23.5282473
+        ]
+      },
+      "id": "node/4943837362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948979287",
+        "height": "3",
+        "name": "大尖山瀑布",
+        "name:en": "Dajianshan Falls",
+        "name:zh": "大尖山瀑布",
+        "name:zh-Hant": "大尖山瀑布",
+        "waterway": "waterfall",
+        "width": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.67296,
+          25.054292
+        ]
+      },
+      "id": "node/4948979287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4955195777",
+        "height": "25",
+        "name": "嘎拉賀彩虹瀑布",
+        "name:en": "Galahe Rainbow Waterfall",
+        "name:zh": "嘎拉賀彩虹瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3868044,
+          24.6259959
+        ]
+      },
+      "id": "node/4955195777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965128125",
+        "name": "情人谷瀑布",
+        "name:en": "Lover's Valley Waterfall",
+        "name:zh": "情人谷瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q111476647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6667152,
+          22.8761044
+        ]
+      },
+      "id": "node/4965128125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4984246012",
+        "height": "10",
+        "name": "茄苳瀑布",
+        "name:en": "Qié Zi Dōng Waterfall",
+        "name:zh": "茄苳瀑布",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6764836,
+          25.0529591
+        ]
+      },
+      "id": "node/4984246012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993165222",
+        "name": "翡翠谷",
+        "name:en": "Jade Vally",
+        "name:zh": "翡翠谷",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4956674,
+          23.9686694
+        ]
+      },
+      "id": "node/4993165222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4996517577",
+        "name": "幼坑瀑布",
+        "name:zh": "幼坑瀑布",
+        "note": "11層瀑布/九層瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101529305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.810352,
+          25.0559486
+        ]
+      },
+      "id": "node/4996517577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5016106742",
+        "name": "菜公坑瀑布",
+        "name:en": "Caigongkeng Waterfall",
+        "name:zh": "菜公坑瀑布",
+        "name:zh-Hant": "菜公坑瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5254735,
+          25.1914017
+        ]
+      },
+      "id": "node/5016106742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5018125768",
+        "height": "25",
+        "name": "新峰瀑布",
+        "name:en": "Xinfeng Waterfall",
+        "name:zh": "新峰瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7968857,
+          24.8683707
+        ]
+      },
+      "id": "node/5018125768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067116",
+        "name": "大肚瀑布",
+        "name:en": "Dadu Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5388806,
+          24.8397505
+        ]
+      },
+      "id": "node/5026067116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067117",
+        "name": "小池瀑布",
+        "name:en": "Siaochi Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5375878,
+          24.8399265
+        ]
+      },
+      "id": "node/5026067117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067119",
+        "name": "通天瀑布",
+        "name:en": "Tongtian Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5360029,
+          24.8387808
+        ]
+      },
+      "id": "node/5026067119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067120",
+        "name": "潛龍瀑布",
+        "name:en": "Chinlong Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5352979,
+          24.8383406
+        ]
+      },
+      "id": "node/5026067120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067522",
+        "name": "石牆瀑布",
+        "name:en": "Shihchiang Waterfall",
+        "name:tay": "S-Nat Dagi",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5338602,
+          24.8380778
+        ]
+      },
+      "id": "node/5026067522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067523",
+        "name": "公公瀑布",
+        "name:en": "Grandfather Waterfall",
+        "name:tay": "U-Das Dagi",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5327367,
+          24.8383903
+        ]
+      },
+      "id": "node/5026067523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067524",
+        "name": "婆婆瀑布",
+        "name:en": "Grandmother Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5328791,
+          24.8383457
+        ]
+      },
+      "id": "node/5026067524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026067525",
+        "name": "小孩瀑布",
+        "name:en": "Child Waterfall",
+        "name:tay": "M-Lage Dagi",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5329251,
+          24.8383368
+        ]
+      },
+      "id": "node/5026067525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5035864307",
+        "height": "10",
+        "name": "美崙溪瀑布",
+        "name:en": "Meilun Waterfalls",
+        "name:zh": "美崙溪瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5185005,
+          24.019302
+        ]
+      },
+      "id": "node/5035864307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040170720",
+        "height": "4",
+        "name": "大鬼瀑布",
+        "name:en": "Dagui Waterfall",
+        "name:zh": "大鬼瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8803379,
+          25.1124429
+        ]
+      },
+      "id": "node/5040170720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063266144",
+        "height": "10",
+        "name": "五峰旗瀑布 (第三層)",
+        "name:en": "Wufengchi Waterfalls (Third layer)",
+        "name:zh": "五峰旗瀑布 (第三層)",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7466892,
+          24.8337024
+        ]
+      },
+      "id": "node/5063266144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5088817419",
+        "name": "昇龍瀑布",
+        "name:en": "Shenglong Waterfall",
+        "name:tay": "S-Mergi Dagi",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5399264,
+          24.839879
+        ]
+      },
+      "id": "node/5088817419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5209579635",
+        "alt_name": "阿柔瀑布",
+        "height": "15",
+        "name": "炮子崙瀑布",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6080035,
+          24.9858419
+        ]
+      },
+      "id": "node/5209579635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220323140",
+        "name": "魴頂瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q11172603",
+        "wikipedia": "zh:魴頂瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7395166,
+          25.1122421
+        ]
+      },
+      "id": "node/5220323140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5231919938",
+        "height": "30",
+        "name": "銀河瀑布",
+        "name:en": "Yinhe Waterfall",
+        "name:zh": "銀河瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5832379,
+          24.9587197
+        ]
+      },
+      "id": "node/5231919938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5256810788",
+        "name": "半屏大瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8732435,
+          25.1028986
+        ]
+      },
+      "id": "node/5256810788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280450027",
+        "name": "重安瀑布(第一層)",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3782298,
+          23.1882121
+        ]
+      },
+      "id": "node/5280450027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305749164",
+        "name": "金峰瀑布",
+        "name:en": "Jinfeng Waterfall",
+        "name:zh": "金峰瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q97441570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93306,
+          22.593159
+        ]
+      },
+      "id": "node/5305749164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308202666",
+        "height": "3",
+        "name": "灰窯瀑布",
+        "name:en": "Huiyao Falls",
+        "name:zh": "灰窯瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7669224,
+          25.0179004
+        ]
+      },
+      "id": "node/5308202666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346057453",
+        "name": "排雲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.723887,
+          22.6569742
+        ]
+      },
+      "id": "node/5346057453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5365776248",
+        "name": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2923257,
+          24.7348521
+        ]
+      },
+      "id": "node/5365776248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436562221",
+        "name": "彩虹瀑布",
+        "name:en": "Rainbow Falls",
+        "name:zh": "彩虹瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9376685,
+          23.5669964
+        ]
+      },
+      "id": "node/5436562221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442705296",
+        "name": "小瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5035449,
+          25.1822738
+        ]
+      },
+      "id": "node/5442705296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444126221",
+        "name": "新開瀑布",
+        "name:en": "XinKai Waterfalls",
+        "name:zh": "新開瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.816709,
+          24.357409
+        ]
+      },
+      "id": "node/5444126221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497795452",
+        "name": "苦花潭瀑布",
+        "name:zh": "苦花潭瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0191803,
+          24.5430001
+        ]
+      },
+      "id": "node/5497795452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520260435",
+        "name": "頭前溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6144279,
+          25.1668873
+        ]
+      },
+      "id": "node/5520260435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521840294",
+        "name": "半嶺瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410963,
+          25.1417178
+        ]
+      },
+      "id": "node/5521840294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5539440650",
+        "height": "35",
+        "intermittent": "no",
+        "name": "神山瀑布",
+        "name:de": "Shenshan Wasserfall",
+        "name:en": "Shenshan Falls",
+        "name:zh": "神山瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7313652,
+          22.7536761
+        ]
+      },
+      "id": "node/5539440650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5655110362",
+        "height": "85",
+        "name": "馬里光瀑布",
+        "name:en": "Maliguang",
+        "name:zh": "馬里光瀑布",
+        "source": "http://followxiaofei.com/taiwan/hsinchu-waterfalls-jianshi-maliguang-waterfall",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3344163,
+          24.6410508
+        ]
+      },
+      "id": "node/5655110362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5655112260",
+        "height": "50",
+        "intermittent": "no",
+        "name": "馬里關瀑布上游",
+        "name:en": "Upper Maliguang",
+        "name:zh": "馬里關瀑布上游",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3405583,
+          24.6339177
+        ]
+      },
+      "id": "node/5655112260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668896610",
+        "height": "10",
+        "name": "至情谷瀑布",
+        "name:en": "Passion Valley Waterfall",
+        "name:zh": "至情谷瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "width": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6914995,
+          22.8966289
+        ]
+      },
+      "id": "node/5668896610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677186188",
+        "height": "10",
+        "name": "茵夢湖瀑布",
+        "name:en": "Innisfree Waterfall",
+        "name:zh": "茵夢湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7964175,
+          25.0581422
+        ]
+      },
+      "id": "node/5677186188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677398576",
+        "name": "天雲瀑布",
+        "name:en": "Sky Cloud Waterfall",
+        "name:zh": "天雲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7967481,
+          25.0574339
+        ]
+      },
+      "id": "node/5677398576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5682077272",
+        "height": "20",
+        "name": "雲心瀑布",
+        "name:en": "Yunsen Waterfall",
+        "name:zh": "雲心瀑布",
+        "waterway": "waterfall",
+        "width": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4657388,
+          24.8338987
+        ]
+      },
+      "id": "node/5682077272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5682107473",
+        "height": "5",
+        "name": "藝音瀑布",
+        "name:en": "Yinyi Falls",
+        "name:zh": "藝音瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.465514,
+          24.8326876
+        ]
+      },
+      "id": "node/5682107473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5682107493",
+        "name": "姐妹瀑布",
+        "name:en": "Sisters Waterfall",
+        "name:zh": "姐妹瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4603796,
+          24.8407095
+        ]
+      },
+      "id": "node/5682107493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5688816251",
+        "name": "夢幻瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8283649,
+          25.0664413
+        ]
+      },
+      "id": "node/5688816251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5774258985",
+        "name": "石硿子瀑布",
+        "name:en": "Stone Raft Waterfall",
+        "name:zh": "石硿子瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7737316,
+          25.0124755
+        ]
+      },
+      "id": "node/5774258985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5967881576",
+        "name": "瀑布",
+        "name:zh": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3128864,
+          23.7304015
+        ]
+      },
+      "id": "node/5967881576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5977496783",
+        "height": "62",
+        "name": "天長瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6579179,
+          23.5961809
+        ]
+      },
+      "id": "node/5977496783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5977496890",
+        "height": "52",
+        "name": "地久瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6574289,
+          23.5961896
+        ]
+      },
+      "id": "node/5977496890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5978918419",
+        "name": "龍鳳瀑布",
+        "name:en": "Longfeng Falls",
+        "name:zh": "龍鳳瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6641975,
+          23.600016
+        ]
+      },
+      "id": "node/5978918419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052821785",
+        "name": "石城大瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9488463,
+          24.980702
+        ]
+      },
+      "id": "node/6052821785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6113346640",
+        "height": "40",
+        "name": "同心瀑布群",
+        "name:en": "Tongxin Falls",
+        "name:zh": "同心瀑布群",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6833914,
+          23.6049966
+        ]
+      },
+      "id": "node/6113346640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6113437088",
+        "intermittent": "yes",
+        "name": "龍鱗瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.796916,
+          23.635492
+        ]
+      },
+      "id": "node/6113437088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6204939252",
+        "name": "楓林瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5513743,
+          25.1912722
+        ]
+      },
+      "id": "node/6204939252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255850659",
+        "name": "瑞龍瀑布",
+        "name:en": "Ruilong Falls",
+        "name:zh": "瑞龍瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q34757995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6947715,
+          23.6605444
+        ]
+      },
+      "id": "node/6255850659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6262094952",
+        "height": "55",
+        "name": "長青瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6568823,
+          23.595254
+        ]
+      },
+      "id": "node/6262094952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313592350",
+        "height": "60",
+        "name": "青龍瀑布",
+        "name:en": "Qinglong Falls",
+        "name:zh": "青龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101529300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7342332,
+          23.661976
+        ]
+      },
+      "id": "node/6313592350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6374952789",
+        "attraction": "viewpoint",
+        "name": "精英瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2027137,
+          24.0324835
+        ]
+      },
+      "id": "node/6374952789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6384909672",
+        "name": "東卯溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9522697,
+          24.1999455
+        ]
+      },
+      "id": "node/6384909672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401692528",
+        "name": "能高圳瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9777528,
+          24.0263363
+        ]
+      },
+      "id": "node/6401692528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6467601058",
+        "name": "大津瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q101546245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6455589,
+          22.8609428
+        ]
+      },
+      "id": "node/6467601058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6468968585",
+        "name": "風美瀑布",
+        "name:en": "Fengmei Waterfall",
+        "name:zh": "風美瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0138893,
+          24.5338301
+        ]
+      },
+      "id": "node/6468968585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6478108316",
+        "name": "不厭(菜刀崙)瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8431736,
+          25.0900137
+        ]
+      },
+      "id": "node/6478108316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480012714",
+        "name": "天時瀑布",
+        "name:en": "Tian-Shi Waterfall",
+        "name:zh": "天時瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9259356,
+          23.8191038
+        ]
+      },
+      "id": "node/6480012714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6516461498",
+        "name": "20M",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.352604,
+          24.7651381
+        ]
+      },
+      "id": "node/6516461498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6533720350",
+        "name": "王軍寮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6182567,
+          24.9815712
+        ]
+      },
+      "id": "node/6533720350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6570242585",
+        "name": "檻仁瀑布",
+        "name:en": "Lanren Waterfall",
+        "name:zh": "檻仁瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8558548,
+          22.0484787
+        ]
+      },
+      "id": "node/6570242585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6596258526",
+        "name": "潮音洞",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4319833,
+          25.1256549
+        ]
+      },
+      "id": "node/6596258526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6654723592",
+        "name": "內洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5275132,
+          24.8274039
+        ]
+      },
+      "id": "node/6654723592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6707912885",
+        "fixme": "應該不是谷燕瀑布",
+        "name": "谷燕瀑布",
+        "name:en": "Guvan Waterfall",
+        "name:zh": "谷燕瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1228212,
+          24.6249153
+        ]
+      },
+      "id": "node/6707912885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6771017786",
+        "name": "利嘟娜拉",
+        "name:en": "Lidunala Waterfall",
+        "name:zh": "利嘟娜拉瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5948125,
+          22.0149196
+        ]
+      },
+      "id": "node/6771017786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6781977102",
+        "height": "60",
+        "name": "舊寮瀑布",
+        "name:en": "Jiuliao Falls",
+        "name:zh": "舊寮瀑布",
+        "waterway": "waterfall",
+        "width": "3",
+        "wikidata": "Q34682660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7322082,
+          24.607591
+        ]
+      },
+      "id": "node/6781977102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6784843933",
+        "name": "石盤谷瀑布 habuhabu",
+        "name:tsu": "habuhabu",
+        "name:zh": "石盤谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7432343,
+          23.6003441
+        ]
+      },
+      "id": "node/6784843933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6792410785",
+        "name": "黃金瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6934411,
+          22.5339533
+        ]
+      },
+      "id": "node/6792410785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796947190",
+        "height": "40",
+        "intermittent": "no",
+        "name": "山羊峽谷",
+        "name:de": "Mondfall",
+        "name:en": "Goat Waterfall",
+        "name:zh": "山羊峽谷",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3518962,
+          24.7648634
+        ]
+      },
+      "id": "node/6796947190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063481795",
+        "name": "武潭瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6418627,
+          22.5852712
+        ]
+      },
+      "id": "node/7063481795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7127884125",
+        "height": "160",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%E8%87%BA%E6%9D%B1%E5%90%91%E9%99%BD%E7%80%91%E5%B8%83.jpg",
+        "intermittent": "yes",
+        "name": "向陽瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q109348138",
+        "wikimedia_commons": "File:臺東向陽瀑布.jpg",
+        "wikipedia": "zh:向陽瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9779457,
+          23.2711048
+        ]
+      },
+      "id": "node/7127884125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7277582185",
+        "name": "柴山瀑布（大雨過後才有）",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2726529,
+          22.6568956
+        ]
+      },
+      "id": "node/7277582185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7279102085",
+        "alt_name:en": "Kayoufeng Waterfall",
+        "name": "卡悠峯瀑布",
+        "name:en": "Kaljuvung Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7003871,
+          22.2970886
+        ]
+      },
+      "id": "node/7279102085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7289010798",
+        "name": "龍瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8168326,
+          23.9426205
+        ]
+      },
+      "id": "node/7289010798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7300199072",
+        "name": "水濂洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6912418,
+          23.5768334
+        ]
+      },
+      "id": "node/7300199072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7308100513",
+        "name": "澀仔坑湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8437612,
+          23.9474664
+        ]
+      },
+      "id": "node/7308100513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7340149869",
+        "name": "情人湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.708626,
+          22.7925403
+        ]
+      },
+      "id": "node/7340149869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7395180627",
+        "name": "長絲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7633097,
+          23.1153804
+        ]
+      },
+      "id": "node/7395180627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7418051456",
+        "name": "小林合流點瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152896,
+          24.654373
+        ]
+      },
+      "id": "node/7418051456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7418051839",
+        "name": "芃芃瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5076598,
+          24.6455115
+        ]
+      },
+      "id": "node/7418051839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7549204506",
+        "height": "60",
+        "intermittent": "no",
+        "name": "新寮瀑布(第二層)",
+        "name:en": "Xinliao Waterfall",
+        "name:zh": "新寮瀑布(第二層)",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7436938,
+          24.5992056
+        ]
+      },
+      "id": "node/7549204506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7654862244",
+        "name": "滿月圓瀑布",
+        "name:en": "Manyueyuan Waterfall",
+        "name:zh": "滿月圓瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.449358,
+          24.8172963
+        ]
+      },
+      "id": "node/7654862244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7655567285",
+        "name": "八煙瀑布",
+        "name:en": "Bayan Waterfall",
+        "name:zh": "八煙瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.590712,
+          25.1939925
+        ]
+      },
+      "id": "node/7655567285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816927083",
+        "name": "叢雲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8511681,
+          24.9152778
+        ]
+      },
+      "id": "node/7816927083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7925154491",
+        "name": "45",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3906205,
+          24.6260481
+        ]
+      },
+      "id": "node/7925154491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7940785185",
+        "name": "司馬限瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9318308,
+          24.4042372
+        ]
+      },
+      "id": "node/7940785185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7942518585",
+        "name": "冬瓜山瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9701166,
+          24.4618737
+        ]
+      },
+      "id": "node/7942518585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7949906086",
+        "name": "玉牆瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4160615,
+          24.7952246
+        ]
+      },
+      "id": "node/7949906086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7957531485",
+        "name": "塔曼",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4053954,
+          24.673415
+        ]
+      },
+      "id": "node/7957531485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7997560961",
+        "height": "40",
+        "name": "同心瀑布群",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68043,
+          23.6019956
+        ]
+      },
+      "id": "node/7997560961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7997561488",
+        "name": "同心瀑布群",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.683789,
+          23.6053443
+        ]
+      },
+      "id": "node/7997561488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8011852386",
+        "name": "阿花瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4652499,
+          24.8312666
+        ]
+      },
+      "id": "node/8011852386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8011852387",
+        "name": "秘境",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.465586,
+          24.8321651
+        ]
+      },
+      "id": "node/8011852387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044669296",
+        "name": "鐵份瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3525987,
+          23.3506779
+        ]
+      },
+      "id": "node/8044669296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8090696804",
+        "height": "10",
+        "intermittent": "yes",
+        "name": "龍谷瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34842939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3757103,
+          24.7888331
+        ]
+      },
+      "id": "node/8090696804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8090696806",
+        "height": "20",
+        "name": "神秘瀑布",
+        "name:en": "Mysterious Fall",
+        "name:zh": "神秘瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3743741,
+          24.7898197
+        ]
+      },
+      "id": "node/8090696806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8090714218",
+        "height": "15",
+        "name": "龍鳳瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3753049,
+          24.7893524
+        ]
+      },
+      "id": "node/8090714218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8123422450",
+        "name": "迴音谷瀑布",
+        "name:zh": "迴音谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7747531,
+          24.8521567
+        ]
+      },
+      "id": "node/8123422450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220165517",
+        "name": "八卦瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9278263,
+          24.4827051
+        ]
+      },
+      "id": "node/8220165517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8398832725",
+        "name": "絹絲瀑布",
+        "name:en": "Juansi Waterfall",
+        "name:zh": "絹絲瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q133658364",
+        "wikipedia": "zh:絹絲瀑布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5665842,
+          25.1587805
+        ]
+      },
+      "id": "node/8398832725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8398832727",
+        "name": "松園瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5664164,
+          25.1608852
+        ]
+      },
+      "id": "node/8398832727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8552443620",
+        "height": "10",
+        "intermittent": "no",
+        "name": "土地公瀑布",
+        "name:cs": "Vodopád Boha Země",
+        "name:en": "Tudigong Waterfall",
+        "name:zh": "土地公瀑布",
+        "name:zh-Hant": "土地公瀑布",
+        "waterway": "waterfall",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6187388,
+          25.1589234
+        ]
+      },
+      "id": "node/8552443620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620347660",
+        "name": "小錦屏瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2045981,
+          24.6480375
+        ]
+      },
+      "id": "node/8620347660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827782801",
+        "name": "赫威瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4301787,
+          24.7900012
+        ]
+      },
+      "id": "node/8827782801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8849899809",
+        "name": "幽靈瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3536284,
+          24.6648946
+        ]
+      },
+      "id": "node/8849899809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8892081951",
+        "name": "加九寮滑水道",
+        "name:en": "Jiajiuliao Water Slide",
+        "name:zh": "加九寮滑水道",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5287727,
+          24.8778451
+        ]
+      },
+      "id": "node/8892081951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8915027892",
+        "name": "觀音洞瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.367118,
+          24.8305723
+        ]
+      },
+      "id": "node/8915027892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946092782",
+        "name": "石磐瀑布",
+        "name:zh": "石磐瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7282188,
+          24.8271892
+        ]
+      },
+      "id": "node/8946092782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991950001",
+        "alt_name": "小瀑布;鴛鴦谷瀑布群-三號瀑布",
+        "name": "玉女瀑布",
+        "name:zh": "玉女瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2843162,
+          24.7521025
+        ]
+      },
+      "id": "node/8991950001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9048720921",
+        "name": "白紗瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4295266,
+          24.7897392
+        ]
+      },
+      "id": "node/9048720921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9124129159",
+        "name": "愛心瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0881957,
+          24.6088147
+        ]
+      },
+      "id": "node/9124129159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215369724",
+        "name": "巴庫拉斯瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9997646,
+          23.8160678
+        ]
+      },
+      "id": "node/9215369724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9266139949",
+        "description": "位於福壽橋旁的瀑布，由於溪水呈白色似白雲而得名",
+        "name": "白雲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5491571,
+          25.14654
+        ]
+      },
+      "id": "node/9266139949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9266251493",
+        "alt_name": "勇士瀑布;男人瀑布;鴛鴦谷瀑布群-一號瀑布",
+        "name": "鴛鴦瀑布",
+        "name:zh": "鴛鴦瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2832597,
+          24.750212
+        ]
+      },
+      "id": "node/9266251493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9402235095",
+        "name": "鐵木瀑布(優霞雲瀑布)",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3853826,
+          24.8134078
+        ]
+      },
+      "id": "node/9402235095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717057983",
+        "name": "大夯瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7902077,
+          24.9882395
+        ]
+      },
+      "id": "node/9717057983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9795988783",
+        "name": "小瀑布",
+        "natural": "cliff",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7553029,
+          22.8847403
+        ]
+      },
+      "id": "node/9795988783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880047170",
+        "name": "山卡瀑布",
+        "source": "survey",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7130701,
+          22.5238436
+        ]
+      },
+      "id": "node/9880047170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880072378",
+        "name": "大千層岩瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6841853,
+          22.5198192
+        ]
+      },
+      "id": "node/9880072378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880846636",
+        "name": "神秘谷瀑布",
+        "source": "survey",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.709759,
+          22.5939619
+        ]
+      },
+      "id": "node/9880846636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880960555",
+        "name": "德文佳暮雙瀑",
+        "source": "survey",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7087636,
+          22.7731327
+        ]
+      },
+      "id": "node/9880960555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9886793176",
+        "name": "地形",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0823537,
+          23.7397252
+        ]
+      },
+      "id": "node/9886793176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938306030",
+        "name": "石砦瀑布",
+        "source": "survey",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6161676,
+          22.9513367
+        ]
+      },
+      "id": "node/9938306030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945489623",
+        "name": "上層小瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7403552,
+          24.3531396
+        ]
+      },
+      "id": "node/9945489623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10031390315",
+        "name": "文秀坑瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.91149,
+          25.0498083
+        ]
+      },
+      "id": "node/10031390315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10178068030",
+        "name": "小獅王瀑布",
+        "source": "survey",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6956389,
+          22.3205262
+        ]
+      },
+      "id": "node/10178068030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208638532",
+        "name": "千層岩瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5912926,
+          23.1777851
+        ]
+      },
+      "id": "node/10208638532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10604256184",
+        "name": "比林瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382413,
+          24.5502473
+        ]
+      },
+      "id": "node/10604256184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10725839245",
+        "name": "羌仔寮瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.560947,
+          22.9312239
+        ]
+      },
+      "id": "node/10725839245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10743014919",
+        "name": "靜心瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0892433,
+          24.6092776
+        ]
+      },
+      "id": "node/10743014919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10743014930",
+        "name": "谷燕瀑布",
+        "name:en": "Guvan Waterfall",
+        "name:zh": "谷燕瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1237159,
+          24.6249345
+        ]
+      },
+      "id": "node/10743014930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11011690747",
+        "name": "絹絲瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7905638,
+          25.0124472
+        ]
+      },
+      "id": "node/11011690747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11046616077",
+        "name": "青蛙石瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.228298,
+          24.6871923
+        ]
+      },
+      "id": "node/11046616077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11215721306",
+        "name": "裡埔瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3014913,
+          24.6643097
+        ]
+      },
+      "id": "node/11215721306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217046690",
+        "name": "鳳瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8169359,
+          23.9411259
+        ]
+      },
+      "id": "node/11217046690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11264383445",
+        "name": "梅后蔓瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1575291,
+          24.6499703
+        ]
+      },
+      "id": "node/11264383445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11352807159",
+        "name": "小岩雙層瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2043322,
+          24.645827
+        ]
+      },
+      "id": "node/11352807159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11364476779",
+        "name": "觀音瀑布第二層",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6198861,
+          23.5076925
+        ]
+      },
+      "id": "node/11364476779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11397115443",
+        "intermittent": "no",
+        "name": "新寮瀑布(第二層)",
+        "name:en": "Xinliao Waterfall(Second)",
+        "name:zh": "新寮瀑布(第二層)",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7442665,
+          24.6006479
+        ]
+      },
+      "id": "node/11397115443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11770409752",
+        "name": "萬中瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6967361,
+          25.1740078
+        ]
+      },
+      "id": "node/11770409752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11799916409",
+        "name": "雲龍瀑布",
+        "name:en": "Yunlong Waterfall",
+        "name:zh": "雲龍瀑布",
+        "waterway": "waterfall",
+        "wikidata": "Q34682623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9526467,
+          23.555267
+        ]
+      },
+      "id": "node/11799916409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11805478956",
+        "name": "大分瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0990981,
+          23.3828978
+        ]
+      },
+      "id": "node/11805478956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11807414882",
+        "name": "山風瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2252621,
+          23.3293963
+        ]
+      },
+      "id": "node/11807414882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11927215389",
+        "name": "祕境瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.909521,
+          24.1343315
+        ]
+      },
+      "id": "node/11927215389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11939238569",
+        "name": "紅河谷時雨瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268552,
+          24.876055
+        ]
+      },
+      "id": "node/11939238569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11965956569",
+        "name": "瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6305808,
+          24.9879522
+        ]
+      },
+      "id": "node/11965956569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11989469814",
+        "name": "雙溪口合流瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8505794,
+          24.9734207
+        ]
+      },
+      "id": "node/11989469814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12043517245",
+        "name": "苕谷瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8590364,
+          25.022416
+        ]
+      },
+      "id": "node/12043517245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12180475824",
+        "intermittent": "yes",
+        "name": "心湖瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3697669,
+          24.9428068
+        ]
+      },
+      "id": "node/12180475824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12198795419",
+        "name": "白玉瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.017127,
+          22.6873367
+        ]
+      },
+      "id": "node/12198795419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214086380",
+        "name": "小湖尾瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8273598,
+          24.9580366
+        ]
+      },
+      "id": "node/12214086380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222496049",
+        "name": "白水泉瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5548992,
+          23.0195287
+        ]
+      },
+      "id": "node/12222496049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12270489801",
+        "name": "柴山瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2726442,
+          22.6568894
+        ]
+      },
+      "id": "node/12270489801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12390472541",
+        "name": "三層瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8117982,
+          24.9310651
+        ]
+      },
+      "id": "node/12390472541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12390472543",
+        "name": "石流瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8083507,
+          24.9380297
+        ]
+      },
+      "id": "node/12390472543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12681344449",
+        "name": "七仙女瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1901298,
+          24.0189634
+        ]
+      },
+      "id": "node/12681344449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13063119217",
+        "name": "鹿空瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.802725,
+          24.9485817
+        ]
+      },
+      "id": "node/13063119217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13064749135",
+        "name": "小溪瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6091488,
+          25.1094678
+        ]
+      },
+      "id": "node/13064749135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13197809318",
+        "height": "70",
+        "name": "甕碧潭瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2632294,
+          24.7384363
+        ]
+      },
+      "id": "node/13197809318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13275491187",
+        "name": "五峰瀑布",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1065733,
+          24.5775932
+        ]
+      },
+      "id": "node/13275491187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13473348783",
+        "name": "長瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0652833,
+          24.1063172
+        ]
+      },
+      "id": "node/13473348783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13473399201",
+        "name": "長瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0598553,
+          24.1067386
+        ]
+      },
+      "id": "node/13473399201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13521840341",
+        "name": "流瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0468709,
+          24.0972716
+        ]
+      },
+      "id": "node/13521840341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13793216364",
+        "name": "小瀑",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8196061,
+          25.0865497
+        ]
+      },
+      "id": "node/13793216364"
+    }
+  ]
+}

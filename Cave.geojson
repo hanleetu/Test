@@ -1,0 +1,2728 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-07T09:49:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340600333",
+        "name": "蝙蝠洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.3542129,
+              24.8362045
+            ],
+            [
+              121.3543902,
+              24.8361712
+            ],
+            [
+              121.3545152,
+              24.8360707
+            ],
+            [
+              121.3544568,
+              24.8362451
+            ],
+            [
+              121.3543268,
+              24.836274
+            ],
+            [
+              121.3542129,
+              24.8362045
+            ]
+          ]
+        ]
+      },
+      "id": "way/340600333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761954134",
+        "name": "風櫃洞",
+        "name:en": "Fenggui Cave",
+        "name:zh": "風櫃洞",
+        "name:zh-Hans": "风柜洞",
+        "name:zh-Hant": "風櫃洞",
+        "natural": "cave_entrance",
+        "wikidata": "Q17031234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5437544,
+          23.5376636
+        ]
+      },
+      "id": "node/761954134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861080634",
+        "name": "仙洞出口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8148089,
+          21.967864
+        ]
+      },
+      "id": "node/861080634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940950039",
+        "GNS:dsg_code": "PPL",
+        "GNS:dsg_string": "populated place",
+        "GNS:id": "-2632729",
+        "access": "yes",
+        "alt_name:en": "Guanyindong",
+        "fee": "no",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/%E7%B6%A0%E5%B3%B6%E8%A7%80%E9%9F%B3%E6%B4%9E%E5%87%BA%E5%85%A5%E5%8F%A3.jpg",
+        "name": "觀音洞",
+        "name:en": "Guanyin Cave",
+        "name:zh": "觀音洞",
+        "natural": "cave_entrance",
+        "source": "GNS",
+        "wikidata": "Q28060996",
+        "wikimedia_commons": "Category:Green Island Guanyin Dong",
+        "wikipedia": "zh:觀音洞 (綠島)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5068639,
+          22.671195
+        ]
+      },
+      "id": "node/940950039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940950176",
+        "alt_name": "藍洞",
+        "alt_name:en": "Blue hole",
+        "alt_name:zh": "藍洞",
+        "name": "彎弓洞",
+        "name:en": "Wangong Arch",
+        "name:zh": "彎弓洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096748,
+          22.6693492
+        ]
+      },
+      "id": "node/940950176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940951311",
+        "access": "yes",
+        "name": "燕子洞",
+        "name:en": "Swallow Cave",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5069369,
+          22.6778719
+        ]
+      },
+      "id": "node/940951311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945719784",
+        "name": "銀龍洞出口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8159839,
+          21.9664558
+        ]
+      },
+      "id": "node/945719784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289242532",
+        "name": "淩雲洞",
+        "name:en": "Lingyun Cave",
+        "name:zh": "淩雲洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0065146,
+          24.6434037
+        ]
+      },
+      "id": "node/2289242532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289244618",
+        "name": "覺王洞",
+        "name:en": "Jue Wangdong",
+        "name:zh": "覺王洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0152833,
+          24.6459
+        ]
+      },
+      "id": "node/2289244618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289244619",
+        "name": "觀音洞",
+        "name:en": "Guanyin Cave",
+        "name:zh": "觀音洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0074812,
+          24.64335
+        ]
+      },
+      "id": "node/2289244619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289244620",
+        "name": "靈霞洞",
+        "name:en": "Lingsia Cave",
+        "name:zh": "靈霞洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.016051,
+          24.6455588
+        ]
+      },
+      "id": "node/2289244620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299991436",
+        "name": "大土匪洞",
+        "name:en": "Big earthen cave",
+        "name:zh": "大土匪洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4906409,
+          24.9058086
+        ]
+      },
+      "id": "node/2299991436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303382610",
+        "name": "燕秀潮音",
+        "name:en": "Yanxiuchaoyin Cave",
+        "name:zh": "燕秀潮音",
+        "name:zh-Hant": "燕秀潮音",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4894963,
+          26.3583337
+        ]
+      },
+      "id": "node/2303382610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2316012047",
+        "name": "千人洞 feongonomeoisi",
+        "name:tsu": "feongonomeoisi",
+        "name:zh": "千人洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7906608,
+          23.5757315
+        ]
+      },
+      "id": "node/2316012047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2316012126",
+        "name": "臥船洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7856867,
+          23.5744907
+        ]
+      },
+      "id": "node/2316012126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368694171",
+        "addr:postcode": "972",
+        "name": "洞天仙府 (觀音洞)",
+        "name:en": "GuanYin Cave",
+        "name:zh": "洞天仙府 (觀音洞)",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6024167,
+          24.16055
+        ]
+      },
+      "id": "node/2368694171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383293663",
+        "name": "五孔洞",
+        "name:en": "Five holes",
+        "name:zh": "五孔洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5114308,
+          22.0805576
+        ]
+      },
+      "id": "node/2383293663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2505529202",
+        "ele": "275",
+        "name": "蓮花洞",
+        "name:en": "Lotus Cave",
+        "name:zh": "蓮花洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2612503,
+          22.651755
+        ]
+      },
+      "id": "node/2505529202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510250507",
+        "ele": "190.3000030517578",
+        "name": "坑道口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2682256,
+          22.6389722
+        ]
+      },
+      "id": "node/2510250507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609292878",
+        "access": "permissive",
+        "ele": "303",
+        "fee": "no",
+        "name": "龍柱洞",
+        "name:zh": "龍柱洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2650146,
+          22.6471271
+        ]
+      },
+      "id": "node/2609292878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637866784",
+        "disused": "yes",
+        "name": "昇福坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8437036,
+          25.0916902
+        ]
+      },
+      "id": "node/2637866784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2643998283",
+        "name": "龍山洞",
+        "name:en": "Longshan Cave",
+        "name:zh": "龍山洞",
+        "natural": "cave_entrance",
+        "old_name": "日本洞"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5845569,
+          25.0362021
+        ]
+      },
+      "id": "node/2643998283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2852358122",
+        "name": "八仙洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7381605,
+          25.0256678
+        ]
+      },
+      "id": "node/2852358122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882817353",
+        "name": "黃金洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8691642,
+          25.1076539
+        ]
+      },
+      "id": "node/2882817353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2893081689",
+        "historic": "ruins",
+        "name": "本山六坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8623555,
+          25.1140279
+        ]
+      },
+      "id": "node/2893081689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3621908740",
+        "name": "防空洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6126495,
+          23.9805118
+        ]
+      },
+      "id": "node/3621908740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3752677405",
+        "name": "水尾光武坑道東口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6470778,
+          25.2238649
+        ]
+      },
+      "id": "node/3752677405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3752677408",
+        "name": "水尾光武坑道西口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6459848,
+          25.2246373
+        ]
+      },
+      "id": "node/3752677408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3774436057",
+        "name": "克難洞",
+        "name:en": "Ke'nan Cave",
+        "name:zh": "克難洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2600578,
+          22.6625447
+        ]
+      },
+      "id": "node/3774436057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3774436118",
+        "name": "雄雞洞",
+        "name:en": "Cock Cave",
+        "name:zh": "雄雞洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2597101,
+          22.6595381
+        ]
+      },
+      "id": "node/3774436118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4089669654",
+        "name": "蝙蝠洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2852065,
+          23.149899
+        ]
+      },
+      "id": "node/4089669654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4090058671",
+        "description": "為國內唯一的暗洞史前文化，八仙洞為明洞; For the only prehistoric culture of the dark hole in China, the Eight Immortals Cave is Myeongdong.",
+        "historic": "archaeological_site",
+        "name": "龍洞",
+        "name:en": "Dragon Cave",
+        "name:zh": "龍洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3140565,
+          22.9990266
+        ]
+      },
+      "id": "node/4090058671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182873317",
+        "name": "仙洞",
+        "name:en": "Fairy Cave",
+        "name:zh": "仙洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8150007,
+          21.9669926
+        ]
+      },
+      "id": "node/4182873317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192649570",
+        "alt_name": "鯨魚洞",
+        "alt_name:zh": "鯨魚洞",
+        "alt_name:zh-Hans": "鲸鱼洞",
+        "alt_name:zh-Hant": "鯨魚洞",
+        "name": "小門鯨魚洞",
+        "name:zh": "小門鯨魚洞",
+        "name:zh-Hans": "小门鲸鱼洞",
+        "name:zh-Hant": "小門鯨魚洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction",
+        "wikidata": "Q10263302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5198539,
+          23.6550857
+        ]
+      },
+      "id": "node/4192649570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4298653920",
+        "name": "美人頸",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5074483,
+          22.6550662
+        ]
+      },
+      "id": "node/4298653920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469632390",
+        "name": "北峰極樂洞 (入)",
+        "name:en": "North Chaishan Ji'le Cave",
+        "name:zh": "北峰極樂洞 (入)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2627799,
+          22.6562327
+        ]
+      },
+      "id": "node/4469632390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4536056950",
+        "fee": "no",
+        "name": "仙峰日月洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7319763,
+          23.8822649
+        ]
+      },
+      "id": "node/4536056950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721922736",
+        "name": "烈女義坑",
+        "name:en": "Lienyuyikeng Cave",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.507637,
+          26.3686441
+        ]
+      },
+      "id": "node/4721922736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723393460",
+        "name": "觀音洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4899825,
+          24.9048404
+        ]
+      },
+      "id": "node/4723393460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4773922062",
+        "name": "銀龍洞入口",
+        "name:en": "Silver Dragon Cave",
+        "name:zh": "銀龍洞入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8155894,
+          21.966478
+        ]
+      },
+      "id": "node/4773922062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800823212",
+        "name": "潮音洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4757246,
+          23.3958974
+        ]
+      },
+      "id": "node/4800823212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800823213",
+        "name": "永安洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.475844,
+          23.3961854
+        ]
+      },
+      "id": "node/4800823213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800823214",
+        "name": "乾元洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4758132,
+          23.3970322
+        ]
+      },
+      "id": "node/4800823214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800823215",
+        "name": "靈岩洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4763952,
+          23.3965965
+        ]
+      },
+      "id": "node/4800823215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829044234",
+        "access": "private",
+        "name": "番字洞",
+        "natural": "cave_entrance",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7662767,
+          25.1619631
+        ]
+      },
+      "id": "node/4829044234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993714863",
+        "name": "風蝕洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3730808,
+          24.8767128
+        ]
+      },
+      "id": "node/4993714863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175485224",
+        "name": "西定河截流道出水口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7275151,
+          25.1631103
+        ]
+      },
+      "id": "node/5175485224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377915347",
+        "description": "4.5K, 相對台九丁141.7K",
+        "name": "南澳海蝕洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7891201,
+          24.4014567
+        ]
+      },
+      "id": "node/5377915347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5441738422",
+        "name": "復興一坑",
+        "name:en": "Fuxing No. 1 Pit",
+        "name:zh": "復興一坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2347565,
+          24.6819715
+        ]
+      },
+      "id": "node/5441738422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123592969",
+        "name": "地洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7551734,
+          24.9263927
+        ]
+      },
+      "id": "node/6123592969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185272080",
+        "access": "permissive",
+        "fee": "no",
+        "name": "猩猩洞",
+        "name:en": "Gorilla Cave",
+        "name:zh": "猩猩洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2707975,
+          22.654125
+        ]
+      },
+      "id": "node/6185272080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185275664",
+        "access": "permissive",
+        "fee": "no",
+        "name": "天雨天財洞",
+        "name:en": "Tianyu Tiancai Cave",
+        "name:zh": "天雨天財洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2617014,
+          22.6524132
+        ]
+      },
+      "id": "node/6185275664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185277183",
+        "access": "permissive",
+        "fee": "no",
+        "name": "金瓜洞",
+        "name:en": "Jingua Cave",
+        "name:zh": "金瓜洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2619577,
+          22.6572896
+        ]
+      },
+      "id": "node/6185277183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6273333145",
+        "access": "permissive",
+        "fee": "no",
+        "name": "波濤洞",
+        "name:en": "Po'tao Cave",
+        "name:zh": "波濤洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2708097,
+          22.6545789
+        ]
+      },
+      "id": "node/6273333145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853511864",
+        "name": "大粗坑金礦坑遺址",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8452687,
+          25.0957854
+        ]
+      },
+      "id": "node/6853511864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853514229",
+        "name": "小粗坑金礦坑遺址",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8404101,
+          25.0998116
+        ]
+      },
+      "id": "node/6853514229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6912963583",
+        "name": "石門洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6064476,
+          25.1062681
+        ]
+      },
+      "id": "node/6912963583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6965112611",
+        "access": "permissive",
+        "ele": "311",
+        "fee": "no",
+        "name": "山豬洞",
+        "name:en": "Wild Boar Cave",
+        "name:zh": "山豬洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2647114,
+          22.6464094
+        ]
+      },
+      "id": "node/6965112611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7119380991",
+        "name": "大猴洞",
+        "name:en": "Large Monkey Cave",
+        "name:zh": "大猴洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.263168,
+          22.644144
+        ]
+      },
+      "id": "node/7119380991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7123792285",
+        "name": "月眉洞",
+        "name:en": "Yuemei Cave",
+        "name:zh": "月眉洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6721174,
+          25.1110344
+        ]
+      },
+      "id": "node/7123792285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7136761104",
+        "name": "猴洞",
+        "name:en": "Monkey Cave",
+        "name:zh": "猴洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2631676,
+          22.6442163
+        ]
+      },
+      "id": "node/7136761104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7150030201",
+        "name": "潮音洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4319884,
+          25.1256019
+        ]
+      },
+      "id": "node/7150030201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7162988085",
+        "name": "清水鬼洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.582968,
+          24.2733981
+        ]
+      },
+      "id": "node/7162988085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7217557661",
+        "access": "permissive",
+        "ele": "233",
+        "fee": "no",
+        "name": "柳月洞",
+        "name:en": "Liuyue Cave",
+        "name:zh": "柳月洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2606582,
+          22.6566427
+        ]
+      },
+      "id": "node/7217557661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7330359237",
+        "name": "煤礦坑崩塌中請勿進入",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8710331,
+          25.1073636
+        ]
+      },
+      "id": "node/7330359237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7362005585",
+        "name": "海蝕洞",
+        "natural": "cave_entrance",
+        "wikidata": "Q139822332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503563,
+          22.6506254
+        ]
+      },
+      "id": "node/7362005585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7426202593",
+        "access": "yes",
+        "fee": "no",
+        "name": "少女洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2605683,
+          22.6599548
+        ]
+      },
+      "id": "node/7426202593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428245585",
+        "name": "通天洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2609842,
+          22.6626676
+        ]
+      },
+      "id": "node/7428245585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428245586",
+        "name": "母子洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2611648,
+          22.6627743
+        ]
+      },
+      "id": "node/7428245586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428245587",
+        "name": "兄弟洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2599733,
+          22.6622864
+        ]
+      },
+      "id": "node/7428245587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501236985",
+        "name": "石厝洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2588405,
+          22.6576798
+        ]
+      },
+      "id": "node/7501236985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7502476585",
+        "name": "靈蛇洞",
+        "name:en": "Lingshe Cave",
+        "name:zh": "靈蛇洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2612758,
+          22.6570635
+        ]
+      },
+      "id": "node/7502476585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7505011485",
+        "name": "天井洞",
+        "name:en": "Tianjing Cave",
+        "name:zh": "天井洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2610813,
+          22.6569052
+        ]
+      },
+      "id": "node/7505011485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7526713286",
+        "name": "石虎洞",
+        "name:en": "Stone Tiger Cave",
+        "name:zh": "石虎洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2614376,
+          22.652521
+        ]
+      },
+      "id": "node/7526713286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7639618785",
+        "name": "奇妙洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2636978,
+          22.6539269
+        ]
+      },
+      "id": "node/7639618785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9078378602",
+        "name": "尾聲隧道(崩塌勿入)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8791711,
+          25.1144434
+        ]
+      },
+      "id": "node/9078378602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9225808659",
+        "name": "虎洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2648439,
+          22.6475611
+        ]
+      },
+      "id": "node/9225808659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9228888910",
+        "name": "仕女洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2642741,
+          22.6554571
+        ]
+      },
+      "id": "node/9228888910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9228888912",
+        "name": "岩谷洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2635822,
+          22.6538225
+        ]
+      },
+      "id": "node/9228888912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9228902041",
+        "name": "長春小洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2655379,
+          22.6446743
+        ]
+      },
+      "id": "node/9228902041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9232495773",
+        "name": "聖人洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2684579,
+          22.6396272
+        ]
+      },
+      "id": "node/9232495773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9232495809",
+        "name": "防空洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2718707,
+          22.6561677
+        ]
+      },
+      "id": "node/9232495809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234218754",
+        "name": "山豬洞(出口)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2646815,
+          22.6465742
+        ]
+      },
+      "id": "node/9234218754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234218782",
+        "name": "美谷溝洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2651503,
+          22.646339
+        ]
+      },
+      "id": "node/9234218782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234218783",
+        "name": "美谷洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2652289,
+          22.6468081
+        ]
+      },
+      "id": "node/9234218783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234218843",
+        "name": "小猴洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2633125,
+          22.6445786
+        ]
+      },
+      "id": "node/9234218843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9374920412",
+        "name": "相思洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2578324,
+          22.6552873
+        ]
+      },
+      "id": "node/9374920412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9374920516",
+        "name": "石花洞(天劍洞)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2574881,
+          22.6541624
+        ]
+      },
+      "id": "node/9374920516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9396041054",
+        "name": "3號入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.2449953,
+          24.441685
+        ]
+      },
+      "id": "node/9396041054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9396074705",
+        "name": "5號入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.2451401,
+          24.4416337
+        ]
+      },
+      "id": "node/9396074705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9417328261",
+        "name": "小土匪洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.490246,
+          24.9049387
+        ]
+      },
+      "id": "node/9417328261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9544922996",
+        "name": "樟湖4號步道入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6426108,
+          23.6181116
+        ]
+      },
+      "id": "node/9544922996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9544922997",
+        "name": "樟湖6號步道入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6381063,
+          23.6091352
+        ]
+      },
+      "id": "node/9544922997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9544922998",
+        "name": "樟湖5號步道入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6311863,
+          23.6076955
+        ]
+      },
+      "id": "node/9544922998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9565181399",
+        "name": "姐妹洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6498192,
+          23.4155708
+        ]
+      },
+      "id": "node/9565181399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9730879178",
+        "name": "龍泉洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2638381,
+          22.6557643
+        ]
+      },
+      "id": "node/9730879178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9815248496",
+        "name": "呼吸民宿",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5848533,
+          23.9749696
+        ]
+      },
+      "id": "node/9815248496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854545144",
+        "name": "坑道口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2681248,
+          22.6388445
+        ]
+      },
+      "id": "node/9854545144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854545145",
+        "ele": "190.3000030517578",
+        "name": "坑道口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2685705,
+          22.6391732
+        ]
+      },
+      "id": "node/9854545145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885682742",
+        "name": "單窟式洞窟彈藥庫",
+        "name:zh": "單窟式洞窟彈藥庫",
+        "name:zh-Hans": "单窟式洞窟弹药库",
+        "name:zh-Hant": "單窟式洞窟彈藥庫",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5114955,
+          23.569212
+        ]
+      },
+      "id": "node/9885682742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885682743",
+        "name": "雙窟式洞窟彈藥庫",
+        "name:zh": "雙窟式洞窟彈藥庫",
+        "name:zh-Hans": "双窟式洞窟弹药库",
+        "name:zh-Hant": "雙窟式洞窟彈藥庫",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.510852,
+          23.5694099
+        ]
+      },
+      "id": "node/9885682743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885682744",
+        "name": "雙窟式洞窟彈藥庫",
+        "name:zh": "雙窟式洞窟彈藥庫",
+        "name:zh-Hans": "双窟式洞窟弹药库",
+        "name:zh-Hant": "雙窟式洞窟彈藥庫",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5105436,
+          23.5694129
+        ]
+      },
+      "id": "node/9885682744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900007572",
+        "name": "銀齒洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2603045,
+          22.6533745
+        ]
+      },
+      "id": "node/9900007572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9960500014",
+        "name": "侯硐坑(煤礦)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8282025,
+          25.0855443
+        ]
+      },
+      "id": "node/9960500014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008511407",
+        "name": "同心洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2599515,
+          22.6568923
+        ]
+      },
+      "id": "node/10008511407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10063220376",
+        "name": "煤礦坑口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8285498,
+          25.0766708
+        ]
+      },
+      "id": "node/10063220376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10063220378",
+        "name": "本坑(瑞三本礦)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8241423,
+          25.0804886
+        ]
+      },
+      "id": "node/10063220378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10196453753",
+        "name": "通往淡江大學入口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7278362,
+          24.8160813
+        ]
+      },
+      "id": "node/10196453753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10536649686",
+        "name": "石厝",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.510499,
+          23.2475016
+        ]
+      },
+      "id": "node/10536649686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10665235428",
+        "name": "龍磐三洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3889973,
+          22.5254674
+        ]
+      },
+      "id": "node/10665235428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10665235430",
+        "name": "龍磐二洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3893829,
+          22.5246229
+        ]
+      },
+      "id": "node/10665235430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10665235445",
+        "name": "龍蟠一洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3898643,
+          22.5239045
+        ]
+      },
+      "id": "node/10665235445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10772122916",
+        "name": "(鑽洞通過)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3161423,
+          22.7027645
+        ]
+      },
+      "id": "node/10772122916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10856122684",
+        "name": "兩齒洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2605547,
+          22.6583993
+        ]
+      },
+      "id": "node/10856122684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10934633413",
+        "name": "減肥洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3546347,
+          22.8486723
+        ]
+      },
+      "id": "node/10934633413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10934633414",
+        "name": "情人洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.354823,
+          22.8492042
+        ]
+      },
+      "id": "node/10934633414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10947748604",
+        "name": "仙洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9282075,
+          25.9765252
+        ]
+      },
+      "id": "node/10947748604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10947748611",
+        "name": "斜窟",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9280173,
+          25.9767511
+        ]
+      },
+      "id": "node/10947748611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10962604309",
+        "name": "主砲口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0147072,
+          26.2276202
+        ]
+      },
+      "id": "node/10962604309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10962604313",
+        "name": "副砲口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0144301,
+          26.2278229
+        ]
+      },
+      "id": "node/10962604313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10962604314",
+        "name": "機槍口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0142982,
+          26.2279024
+        ]
+      },
+      "id": "node/10962604314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11056585212",
+        "name": "瑞三復興鑛",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.82596,
+          25.0788181
+        ]
+      },
+      "id": "node/11056585212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672645129",
+        "disused": "yes",
+        "name": "牡丹三坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85065,
+          25.0710231
+        ]
+      },
+      "id": "node/11672645129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672645132",
+        "disused": "yes",
+        "name": "牡丹煤礦",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8506895,
+          25.0727964
+        ]
+      },
+      "id": "node/11672645132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672645161",
+        "disused": "yes",
+        "name": "武丹新坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8530234,
+          25.0752613
+        ]
+      },
+      "id": "node/11672645161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672645162",
+        "disused": "yes",
+        "name": "牡丹六坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8530292,
+          25.0750911
+        ]
+      },
+      "id": "node/11672645162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672684032",
+        "disused": "yes",
+        "name": "瑞三金礦一坑口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8549968,
+          25.084937
+        ]
+      },
+      "id": "node/11672684032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672684033",
+        "disused": "yes",
+        "name": "瑞三金礦二坑口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.856069,
+          25.087684
+        ]
+      },
+      "id": "node/11672684033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672684034",
+        "disused": "yes",
+        "name": "瑞三金礦三坑口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85643,
+          25.0894992
+        ]
+      },
+      "id": "node/11672684034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11672684035",
+        "name": "黃金隧道",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8550171,
+          25.0873517
+        ]
+      },
+      "id": "node/11672684035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12053271857",
+        "fee": "no",
+        "name": "本山五坑後洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8625732,
+          25.0865786
+        ]
+      },
+      "id": "node/12053271857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12056496623",
+        "disused": "yes",
+        "name": "山豬阱",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8569434,
+          24.9631688
+        ]
+      },
+      "id": "node/12056496623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12127898023",
+        "disused": "yes",
+        "name": "六坑煤礦坑口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.690465,
+          25.0171275
+        ]
+      },
+      "id": "node/12127898023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12314150833",
+        "loc_name": "教室A",
+        "name": "原教室",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5416618,
+          23.8938775
+        ]
+      },
+      "id": "node/12314150833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12358486363",
+        "name": "支峽西口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2616923,
+          22.6562502
+        ]
+      },
+      "id": "node/12358486363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12395883954",
+        "name": "小岩洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8079682,
+          24.9556698
+        ]
+      },
+      "id": "node/12395883954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12512017336",
+        "name": "鯊魚岩洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.80807,
+          24.9548664
+        ]
+      },
+      "id": "node/12512017336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12681239826",
+        "name": "支峽東口",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2617669,
+          22.6563893
+        ]
+      },
+      "id": "node/12681239826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12681239843",
+        "name": "北峰極樂洞 (出)",
+        "name:en": "North Chaishan Ji'le Cave",
+        "name:zh": "北峰極樂洞 (出)",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2626171,
+          22.6561659
+        ]
+      },
+      "id": "node/12681239843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12763478154",
+        "name": "一通坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8195494,
+          25.0781405
+        ]
+      },
+      "id": "node/12763478154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12799049517",
+        "name": "stairs",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2330728,
+          23.2597744
+        ]
+      },
+      "id": "node/12799049517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12801675496",
+        "name": "本山六坑風坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8569883,
+          25.0911335
+        ]
+      },
+      "id": "node/12801675496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12801701601",
+        "name": "金西二坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8546583,
+          25.0971641
+        ]
+      },
+      "id": "node/12801701601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12836717173",
+        "name": "牡丹三坑風坑",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.850161,
+          25.07099
+        ]
+      },
+      "id": "node/12836717173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12984955427",
+        "access": "no",
+        "name": "朝天洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6821652,
+          24.9899681
+        ]
+      },
+      "id": "node/12984955427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13013283215",
+        "name": "石碇蝙蝠洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6874546,
+          24.9924336
+        ]
+      },
+      "id": "node/13013283215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13063119219",
+        "name": "石頭洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8012903,
+          24.9463308
+        ]
+      },
+      "id": "node/13063119219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13180271800",
+        "name": "地道",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.414442,
+          24.9892368
+        ]
+      },
+      "id": "node/13180271800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13180276901",
+        "name": "地道",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4141397,
+          24.9891353
+        ]
+      },
+      "id": "node/13180276901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13180276902",
+        "name": "地道",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4136813,
+          24.9890331
+        ]
+      },
+      "id": "node/13180276902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13257374315",
+        "name": "桃源一洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.388499,
+          22.524088
+        ]
+      },
+      "id": "node/13257374315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13257374319",
+        "name": "桃源二洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3884327,
+          22.5238146
+        ]
+      },
+      "id": "node/13257374319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13290767136",
+        "name": "佛手洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7480173,
+          25.1450698
+        ]
+      },
+      "id": "node/13290767136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13290767139",
+        "name": "佛手洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7476257,
+          25.1448833
+        ]
+      },
+      "id": "node/13290767139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13401422319",
+        "name": "逃生窗",
+        "natural": "cave_entrance",
+        "utility": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4379027,
+          24.3548933
+        ]
+      },
+      "id": "node/13401422319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13766746314",
+        "name": "岩洞",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9212803,
+          25.1272523
+        ]
+      },
+      "id": "node/13766746314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13778573736",
+        "name": "一線天",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4199791,
+          23.1252413
+        ]
+      },
+      "id": "node/13778573736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13778573737",
+        "name": "仙人洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4197933,
+          23.1252639
+        ]
+      },
+      "id": "node/13778573737"
+    }
+  ]
+}
